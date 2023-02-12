@@ -1,3 +1,3 @@
 Hi! I'm Dima, a thinker, tinkerer and developer of free and open-source software. I enjoy solving complex problems and my most popular works are probably [loksh](https://github.com/dimkr/loksh), [nss-tls](https://github.com/dimkr/nss-tls) and [papaw](https://github.com/dimkr/papaw). In some circles, I'm famous for debugging any kind of problem (even segfaults) quickly using [strace](https://strace.io/), and my ability to draw far-reaching conclusions from its output.
 
-These days, I'm working on a [Wayland port of Puppy Linux](https://github.com/puppylinux-woof-CE/woof-CE/wiki/Wayland-Support), [a Gemini client](https://github.com/dimkr/gplaces), and a master's degree in culture studies.
+These days, I'm working on a [Wayland port of Puppy Linux](https://github.com/puppylinux-woof-CE/woof-CE), [a Gemini client](https://github.com/dimkr/gplaces), and a master's degree in culture studies.
